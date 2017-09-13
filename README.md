@@ -12,6 +12,7 @@ Some highlights:
     -	JDX can automatically assign the autoincrement value to the designated attribute of a domain model object when it is persisted.
 *	JDXA provides handy utility methods for displaying an object or a list of objects.  
  
+#### Please also check the related blog at http://www.softwaretree.com/blog/2016/03/13/generating-unique-ids-for-primary-key-values-using-jdxa-orm/
 
 To run this app in your own setup, please do the following:
 *	Clone this project on your desktop.
