@@ -1,0 +1,8 @@
+JDX_DATABASE JDX:jdbc:sqldroid:/data/data/com.softwaretree.jdxandroidautoincrementexample/databases/autoincrement_example.db;USER=sa;PASSWORD=sa;JDX_DBTYPE=SQLITE;
+;
+REM ************************************************************************
+CLASS com.softwaretree.jdxandroidautoincrementexample.model.Employee TABLE Employee
+   PRIMARY_KEY id
+   SQLMAP FOR id COLUMN_NAME EmpId SQLTYPE 'INTEGER PRIMARY KEY AUTOINCREMENT'
+   RDBMS_GENERATED id
+;

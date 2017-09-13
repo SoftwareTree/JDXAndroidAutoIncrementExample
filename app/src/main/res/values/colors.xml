@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- #9c27b0 Purple 500     RGB = 156, 39, 176 -->    
+    <color name="app_color">#9c27b0</color>
+    <color name="bg_blue">#3152F9</color>
+</resources>
